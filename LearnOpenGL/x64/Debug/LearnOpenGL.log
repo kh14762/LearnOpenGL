@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (LearnOpenGL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  camera.cpp
+  stb_image.cpp
+  main.cpp
+C:\Users\kevin\OneDrive\Desktop\OpenGL\LearnOpenGL\LearnOpenGL\main.cpp(230,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  LearnOpenGL.vcxproj -> C:\Users\kevin\OneDrive\Desktop\OpenGL\LearnOpenGL\x64\Debug\OpenGLBasics.exe
